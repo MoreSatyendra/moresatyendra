@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
-- 🌱 I’m currently learning **Backend programming**
+- 🌱 I’m currently learning **Full-Stack programming**
 
 - 💬 Ask me about **ReactJS, NextJS and Vue**
 
