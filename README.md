@@ -22,5 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moresatyendra&show_icons=true&locale=en" alt="moresatyendra" /></p>
 
-[![Rate this package](https://badges.openbase.com/js/rating/react-otp-input.svg?style=openbase&token=6hVGTys5bTY3EkokAlV06lr3YULvr4BaEvWL0S0a8ew=)](https://openbase.com/js/react-otp-input?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
-
