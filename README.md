@@ -9,6 +9,6 @@
 
 - 📫 How to reach me **satyendramore97@gmail.com**
 
-- ⚡ Fun fact **I've visited every state in the JS**
+- ⚡ Fun fact **I always prefer Dark-Mode because Light attracts bugs. **
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moresatyendra&theme=dark&background=000000)](https://git.io/streak-stats)
